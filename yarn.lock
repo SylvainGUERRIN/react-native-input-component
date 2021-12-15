@@ -1396,6 +1396,11 @@
   "resolved" "https://registry.npmjs.org/@react-native/polyfills/-/polyfills-1.0.0.tgz"
   "version" "1.0.0"
 
+"@shopify/restyle@^1.6.1":
+  "integrity" "sha512-y31cYkp/fGGLunBerzNnHaLSPB4VvNhoaPF7GR0V6FFgf12rRUTZCHJyeR+dYn6rlworjad7zMZRnIkSgZLWOw=="
+  "resolved" "https://registry.npmjs.org/@shopify/restyle/-/restyle-1.6.1.tgz"
+  "version" "1.6.1"
+
 "@sideway/address@^4.1.3":
   "integrity" "sha512-8ncEUtmnTsMmL7z1YPB47kPUq7LpKWJNFPsRzHiIajGC5uXlWGn+AmkYPcHNl8S4tcEGx+cnORnNYaw2wvL+LQ=="
   "resolved" "https://registry.npmjs.org/@sideway/address/-/address-4.1.3.tgz"
@@ -4899,7 +4904,7 @@
     "normalize-css-color" "^1.0.2"
     "prop-types" "^15.6.0"
 
-"react-native@>=0.64.0-rc.0 || 0.0.0-*", "react-native@0.64.3":
+"react-native@>=0.59.0", "react-native@>=0.64.0-rc.0 || 0.0.0-*", "react-native@0.64.3":
   "integrity" "sha512-2OEU74U0Ek1/WeBzPbg6XDsCfjF/9fhrNX/5TFgEiBKd5mNc9LOZ/OlMmkb7iues/ZZ/oc51SbEfLRQdcW0fVw=="
   "resolved" "https://registry.npmjs.org/react-native/-/react-native-0.64.3.tgz"
   "version" "0.64.3"
@@ -4942,7 +4947,7 @@
   "resolved" "https://registry.npmjs.org/react-refresh/-/react-refresh-0.4.3.tgz"
   "version" "0.4.3"
 
-"react@^16.8.0 || ^17.0.0", "react@>=17.0.1", "react@17.0.1":
+"react@^16.8.0 || ^17.0.0", "react@>=16.8.0", "react@>=17.0.1", "react@17.0.1":
   "integrity" "sha512-lG9c9UuMHdcAexXtigOZLX8exLWkW0Ku29qPRU8uhF2R9BN96dLCt0psvzPLlHc5OWkgymP3qwTRgbnw5BKx3w=="
   "resolved" "https://registry.npmjs.org/react/-/react-17.0.1.tgz"
   "version" "17.0.1"
